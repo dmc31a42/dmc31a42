@@ -10,8 +10,12 @@
 |Twitch Clip Search|JavaScript, TypeScript, Angular, RxJS|[app](https://twitch-clip-search.web.app/) (login required)|[source](https://nakwonelec.visualstudio.com/TwitchClipSearch)|
 |UnityL10nTool|C++/CLI, C#, WPF||[source](https://github.com/dmc31a42/UnityL10nTool)|-->
 
+### CupNote
+* stack: JavaScript, TypeScript, React, MUI, Storybook, ProseMirror
+* [related resource](https://github.com/DearRAMA)
+
 ### Twitch Clip Search
-* stack: JavaScript, TypeScript, Angular, RxJS
+* stack: JavaScript, TypeScript, Angular, RxJS, Angular Material
 * [web app](https://twitch-clip-search.web.app/) (login required)
 * [source](https://nakwonelec.visualstudio.com/TwitchClipSearch)
 
